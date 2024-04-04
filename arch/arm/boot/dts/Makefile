@@ -1246,6 +1246,7 @@ dtb-$(CONFIG_ARCH_STM32) += \
 	stm32mp157c-lxa-mc1.dtb \
 	stm32mp157c-odyssey.dtb \
 	stm32mp157d-dk1.dtb \
+	stm32mp157d-dk1-roib.dtb \
 	stm32mp157d-dk1-a7-examples.dtb \
 	stm32mp157d-dk1-m4-examples.dtb \
 	stm32mp157d-ed1.dtb \
